@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_odd_numbers","url":"p:\\Python and OOP\\Weak1\\practice_day_1\\sum_of_odd_numbers.py","tests":[{"id":1695817612643,"input":"3\n5 6\n10 4\n4 9","output":"0\n21\n12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\Python and OOP\\Weak1\\practice_day_1\\sum_of_odd_numbers.py","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: sum_digit","url":"p:\\Python and OOP\\Weak1\\Practice_day_2\\sum_digit.py","tests":[{"id":1695981094586,"input":"5\n13305","output":"12"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"p:\\Python and OOP\\Weak1\\Practice_day_2\\sum_digit.py","group":"local","local":true}
